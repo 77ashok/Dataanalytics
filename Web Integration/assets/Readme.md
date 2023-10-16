@@ -1,1 +1,0 @@
-The file contains all the necessary files required for opening and loading the web site/page of our project .i.e the files vital for proper functiong and successful display of web integration of our Visualisations with web page template vesper
