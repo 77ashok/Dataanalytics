@@ -2,5 +2,5 @@ the folder contains the Project PDF files with respect to our team topic "UNLEAS
 the following are the contents of this folder-----
 student performance dashboard - by ""AKASAPU HEMANTH BHAVANI GANESH""---
 student performance story - by ""MYLAPALLI SATISH""---
-student performance report .by ""BARNATI PAVAN KUMAR""---
+student performance report - by ""BARNATI PAVAN KUMAR""---
 
